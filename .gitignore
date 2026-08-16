@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+*.log
+.env.local
+database/auth/
+database/*.json
+media/*.png
+media/*.mp3
